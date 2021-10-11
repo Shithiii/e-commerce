@@ -1,0 +1,16 @@
+#fname {
+    text-transform: uppercase;
+}
+#lname {
+    text-transform: uppercase;
+}
+
+
+
+.form {
+    padding: 50px;
+    margin: 0 auto;
+    width: 600px;
+    /* text-align: center; */
+    background: linear-gradient(to right bottom, #4158D0, #C850C0, #FFCC70);
+}
